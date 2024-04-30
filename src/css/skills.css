@@ -1,0 +1,22 @@
+#skills-div {
+  justify-content: space-between;
+}
+
+.skills-card-container {
+  display: flex;
+  justify-content: space-between;
+  min-width: 66vw;
+  min-height: 20vh;
+  align-items: center;
+  /* border: white 1px solid; */
+}
+
+.skill-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: red 1px solid;
+  border-radius: 10px;
+  min-width: 20vw;
+  min-height: 16vh;
+}
